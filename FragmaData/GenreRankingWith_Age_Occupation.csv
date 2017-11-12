@@ -1,0 +1,63 @@
+Age,Occupation,Rank1,Rank2,Rank3,Rank4,Rank5
+18-35,K-12 student,Action,Comedy,Drama,Sci-Fi,Thriller
+36-50,K-12 student,Comedy,Drama,Romance,Action,Thriller
+50+,K-12 student,Comedy,Drama,Action,Sci-Fi,Thriller
+18-35,academic/educator,Drama,Comedy,Action,Thriller,Romance
+36-50,academic/educator,Drama,Comedy,Action,Romance,Thriller
+50+,academic/educator,Drama,Comedy,Action,Thriller,Romance
+18-35,artist,Comedy,Drama,Action,Thriller,Sci-Fi
+36-50,artist,Drama,Comedy,Action,Thriller,Romance
+50+,artist,Drama,Comedy,Romance,Action,Thriller
+18-35,clerical/admin,Comedy,Drama,Action,Thriller,Romance
+36-50,clerical/admin,Drama,Comedy,Action,Thriller,Romance
+50+,clerical/admin,Drama,Comedy,Romance,Action,Thriller
+18-35,college/grad student,Comedy,Drama,Action,Thriller,Sci-Fi
+36-50,college/grad student,Drama,Comedy,Thriller,Action,Horror
+50+,college/grad student,Drama,Comedy,Action,Romance,Thriller
+18-35,customer service,Comedy,Drama,Action,Thriller,Sci-Fi
+36-50,customer service,Comedy,Action,Drama,Thriller,Sci-Fi
+50+,customer service,Action,Drama,Thriller,Sci-Fi,Comedy
+18-35,doctor/health care,Drama,Comedy,Action,Thriller,Romance
+36-50,doctor/health care,Comedy,Drama,Action,Romance,Thriller
+50+,doctor/health care,Drama,Comedy,Action,Thriller,Romance
+18-35,executive/managerial,Drama,Comedy,Action,Thriller,Romance
+36-50,executive/managerial,Drama,Comedy,Action,Thriller,Sci-Fi
+50+,executive/managerial,Drama,Action,Comedy,Thriller,Sci-Fi
+18-35,farmer,Action,Comedy,Sci-Fi,Drama,Adventure
+36-50,farmer,Comedy,Drama,Action,Sci-Fi,Thriller
+50+,farmer,Action,Comedy,Drama,Thriller,Adventure
+18-35,homemaker,Comedy,Drama,Romance,Action,Children's
+36-50,homemaker,Comedy,Drama,Romance,Action,Thriller
+50+,homemaker,Drama,Comedy,Romance,Children's,Musical
+18-35,lawyer,Drama,Comedy,Action,Thriller,Romance
+36-50,lawyer,Drama,Comedy,Action,Thriller,Romance
+50+,lawyer,Drama,Comedy,Action,Romance,Thriller
+18-35,other,Comedy,Drama,Action,Thriller,Sci-Fi
+36-50,other,Drama,Comedy,Action,Thriller,Sci-Fi
+50+,other,Drama,Comedy,Action,Thriller,Romance
+18-35,programmer,Comedy,Action,Drama,Sci-Fi,Thriller
+36-50,programmer,Drama,Comedy,Action,Sci-Fi,Thriller
+50+,programmer,Drama,Comedy,Action,Thriller,Romance
+36-50,retired,Comedy,Drama,Sci-Fi,Action,Thriller
+50+,retired,Drama,Comedy,Action,Thriller,Romance
+18-35,sales/marketing,Comedy,Drama,Action,Thriller,Romance
+36-50,sales/marketing,Drama,Comedy,Action,Thriller,Sci-Fi
+50+,sales/marketing,Drama,Comedy,Action,Thriller,Sci-Fi
+18-35,scientist,Drama,Comedy,Action,Thriller,Sci-Fi
+36-50,scientist,Drama,Comedy,Action,Sci-Fi,Thriller
+50+,scientist,Drama,Comedy,Action,Sci-Fi,Thriller
+18-35,self-employed,Comedy,Drama,Action,Thriller,Sci-Fi
+36-50,self-employed,Drama,Comedy,Action,Thriller,Sci-Fi
+50+,self-employed,Drama,Comedy,Action,Thriller,Romance
+18-35,technician/engineer,Comedy,Action,Drama,Thriller,Sci-Fi
+36-50,technician/engineer,Comedy,Drama,Action,Sci-Fi,Thriller
+50+,technician/engineer,Drama,Action,Comedy,Thriller,Sci-Fi
+18-35,tradesman/craftsman,Comedy,Action,Drama,Thriller,Sci-Fi
+36-50,tradesman/craftsman,Comedy,Drama,Action,Thriller,Horror
+50+,tradesman/craftsman,Drama,Comedy,Action,Thriller,Sci-Fi
+18-35,unemployed,Comedy,Drama,Action,Thriller,Sci-Fi
+36-50,unemployed,Drama,Comedy,Action,Sci-Fi,Thriller
+50+,unemployed,Drama,Comedy,Romance,Action,Thriller
+18-35,writer,Comedy,Drama,Action,Thriller,Sci-Fi
+36-50,writer,Drama,Comedy,Action,Thriller,Romance
+50+,writer,Drama,Comedy,Action,Thriller,Romance
